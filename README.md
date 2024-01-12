@@ -2,7 +2,7 @@
 
 I am Sean Odera. A software engineer.
 
-I am currently working on a music platform that i plan to intergrate with the blockchain and sell music as nfts at the sametime learning c#.
+learning c# and c++.
 <!--
 **seanodera/seanodera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
